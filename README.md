@@ -1,5 +1,7 @@
 # Wasteland
 Fun, Moderation Discord Bot!
+
+The default prefix for Wasteland is ">", but you can change it using ">prefix (prefix)"
  
  
  If you would like to see the download for the bot here you must pay for it! in order to get the files, unless you want to invite it to  your server then here!
